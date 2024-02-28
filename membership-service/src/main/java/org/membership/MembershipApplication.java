@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class MsaPayApplication {
+public class MembershipApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsaPayApplication.class, args);
+		SpringApplication.run(MembershipApplication.class, args);
 		System.out.println("MsaPayApplication started");
 	}
 
