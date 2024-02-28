@@ -1,4 +1,4 @@
-package com.msa.inlee;
+package org.membership.adapter.in.web;
 
 
 import lombok.RequiredArgsConstructor;

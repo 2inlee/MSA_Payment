@@ -1,1 +1,3 @@
 rootProject.name = 'inlee'
+include 'membership-service'
+

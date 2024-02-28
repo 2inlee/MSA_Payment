@@ -1,4 +1,4 @@
-package com.msa.inlee;
+package org.membership;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
