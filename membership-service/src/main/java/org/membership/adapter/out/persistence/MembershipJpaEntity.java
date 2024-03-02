@@ -30,6 +30,14 @@ public class MembershipJpaEntity {
 
     private boolean isCorp;
 
+    public MembershipJpaEntity(String name, String address, String email, boolean isValid, boolean isCorp) {
+        this.name = name;
+        this.address = address;
+        this.email = email;
+        this.isValid = isValid;
+        this.isCorp = isCorp;
+    }
+
     @Override
     public String toString() {
         return "MembershipJpaEntity{" +
