@@ -93,5 +93,4 @@ public class Membership {
         boolean isCorpValue;
     }
 
-
 }
