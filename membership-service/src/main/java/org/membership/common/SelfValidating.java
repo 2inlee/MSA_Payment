@@ -1,4 +1,4 @@
 package org.membership.common;
 
-public class SelfValidating {
+public class SelfValidating<R extends SelfValidating> {
 }
